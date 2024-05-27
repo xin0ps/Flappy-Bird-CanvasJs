@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: white;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#canvas{
+background-color: white;
+border-radius:5px ;
+background-image: url("https://wallpapers.com/images/hd/flappy-bird-background-gecj5m4a9yhhjp87.jpg");
+background-repeat: no-repeat; 
+background-size:cover ;
+}
+
